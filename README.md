@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuelleo010
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning React js
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate with friends 
 - 📫 How to reach me, let chat on Whatsapp +233261796370
 
